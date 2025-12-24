@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import "./App.css";
-
+//const API
 const API = "http://127.0.0.1:5000";
 
 function App() {

@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import "./App.css";
 
 const API = "http://127.0.0.1:5000";
-//function
+
 function App() {
   const [metrics, setMetrics] = useState({});
   const [processes, setProcesses] = useState([]);
